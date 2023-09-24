@@ -1,0 +1,12 @@
+{
+  "name": "criticom-network-info",
+  "version": "1.0.0",
+  "description": "This is the network info of physical device ",
+  "main": "NetworkInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./NetworkInfo.d.ts"
+}
